@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 ruby '2.5.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem "actionview", ">= 5.2.4.2"
 gem 'active_model_serializers', '~> 0.10.0.rc5'
 gem 'annotate'
 gem 'authority', '3.1.0'
